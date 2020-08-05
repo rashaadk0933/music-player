@@ -20,7 +20,7 @@ body {
   width: 400px;
   background: #e7e7e7;
   border-radius: 20px;
-  box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3); 
+  box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
 }
 
 .img-container {
@@ -67,8 +67,7 @@ h3 {
   background: #242323;
   border-radius: 5px;
   height: 100%;
-  /* change this to show progress */
-  width: 66%;
+  width: 0%;
   transition: width 0.1s linear;
 }
 
@@ -91,10 +90,13 @@ h3 {
   font-size: 30px;
   color: rgb(129, 129, 129);
   margin-right: 30px;
-
+  cursor: pointer;
+  user-select: none;
 }
 
-
+.fas:hover{
+  filter:brightness(80%);
+}
 
 .main-button {
   font-size: 40px;
