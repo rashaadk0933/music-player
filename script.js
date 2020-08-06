@@ -145,7 +145,6 @@ function updateProgressBar(e){
     console.log('seconds',currentSeconds);
     currentTimeEl.textContent = `${currentMinutes}:${currentSeconds}`;
 
-
   }
 }
 
