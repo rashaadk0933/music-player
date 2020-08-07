@@ -24,7 +24,6 @@ const songs = [
     displayName:'4-Quls',
     artist:'Mishari Rashid al-`Afasy',
   },
-
   {
     name:'Ayatal-Kursi-7-Qaris',
     displayName:'Ayatal Kursi',
