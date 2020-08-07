@@ -29,11 +29,7 @@ const songs = [
     displayName:'Ayatal Kursi',
     artist:'Masnoon Duain',
   },
-  {
-    name:'Ayatal-Kursi-7-Qaris',
-    displayName:'Ayatal Kursi',
-    artist:'Masnoon Duain',
-  },
+  
   {
     name:'Surat-Al-Ikhlas',
     displayName:'Surat Al-Ikhlas',
